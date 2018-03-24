@@ -151,10 +151,6 @@ namespace Lab6
     {
         public Color PenColor;  
         public int PenWidth;
-        //public int Pencolor;
-        //public int Fillcolor;
-        //public bool Fill;
-        //public bool Outline;
 
         public MyDraw(int pencolor,int penwidth)
         {
